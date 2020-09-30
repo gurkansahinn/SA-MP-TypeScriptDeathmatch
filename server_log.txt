@@ -1,0 +1,2648 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:45:17] filterscripts = ""  (string)
+[13:45:17] 
+[13:45:17] Server Plugins
+[13:45:17] --------------
+[13:45:17]  Loading plugin: samp-node
+[13:45:18]   Loaded.
+[13:45:18]  Loaded 1 plugins.
+
+[13:45:18] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:45:18] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:45:18] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:45:18] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:45:18] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:45:18] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:45:18] 
+[13:45:18] Filterscripts
+[13:45:18] ---------------
+[13:45:18]   Loaded 0 filterscripts.
+
+[13:45:18] Script[gamemodes/main.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[13:45:18] Number of vehicle models: 0
+[13:45:39] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:45:40] filterscripts = ""  (string)
+[13:45:40] 
+[13:45:40] Server Plugins
+[13:45:40] --------------
+[13:45:40]  Loading plugin: samp-node
+[13:45:40]   Loaded.
+[13:45:40]  Loaded 1 plugins.
+
+[13:45:40] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:45:40] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:45:40] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:45:40] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:45:40] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:45:40] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:45:40] 
+[13:45:40] Filterscripts
+[13:45:40] ---------------
+[13:45:40]   Loaded 0 filterscripts.
+
+[13:45:40] Number of vehicle models: 0
+[13:45:42] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:46:21] filterscripts = ""  (string)
+[13:46:21] 
+[13:46:21] Server Plugins
+[13:46:21] --------------
+[13:46:21]  Loading plugin: samp-node
+[13:46:21]   Loaded.
+[13:46:21]  Loaded 1 plugins.
+
+[13:46:21] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:46:21] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:46:21] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:46:21] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:46:21] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:46:21] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:46:21] 
+[13:46:21] Filterscripts
+[13:46:21] ---------------
+[13:46:21]   Loaded 0 filterscripts.
+
+[13:46:21] Number of vehicle models: 0
+[13:46:59] [connection] incoming connection: 127.0.0.1:53982 id: 0
+[13:46:59] [join] Amper has joined the server (0:127.0.0.1)
+[13:47:13] name, dialog_name
+[13:47:14] [part] Amper has left the server (0:1)
+[13:47:59] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:48:06] filterscripts = ""  (string)
+[13:48:06] 
+[13:48:06] Server Plugins
+[13:48:06] --------------
+[13:48:06]  Loading plugin: samp-node
+[13:48:06]   Loaded.
+[13:48:06]  Loaded 1 plugins.
+
+[13:48:06] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:48:06] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:48:06] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:48:06] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:48:06] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:48:06] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:48:07] 
+[13:48:07] Filterscripts
+[13:48:07] ---------------
+[13:48:07]   Loaded 0 filterscripts.
+
+[13:48:07] Number of vehicle models: 0
+[13:48:19] [connection] incoming connection: 127.0.0.1:62354 id: 0
+[13:48:19] [join] Amper has joined the server (0:127.0.0.1)
+[13:48:23] name, dialog_name
+[13:48:24] [part] Amper has left the server (0:1)
+Console input: tsc
+[13:51:15] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:51:23] filterscripts = ""  (string)
+[13:51:23] 
+[13:51:23] Server Plugins
+[13:51:23] --------------
+[13:51:23]  Loading plugin: samp-node
+[13:51:23]   Loaded.
+[13:51:23]  Loaded 1 plugins.
+
+[13:51:23] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:51:23] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:51:23] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:51:23] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:51:23] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:51:23] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:51:23] 
+[13:51:23] Filterscripts
+[13:51:23] ---------------
+[13:51:23]   Loaded 0 filterscripts.
+
+[13:51:23] Number of vehicle models: 0
+[13:51:34] [connection] incoming connection: 127.0.0.1:55968 id: 0
+[13:51:34] [join] Amper has joined the server (0:127.0.0.1)
+[13:51:39] dialog_, dialog_dialog_
+[13:51:43] [part] Amper has left the server (0:1)
+[13:53:20] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:53:24] filterscripts = ""  (string)
+[13:53:24] 
+[13:53:24] Server Plugins
+[13:53:24] --------------
+[13:53:24]  Loading plugin: samp-node
+[13:53:24]   Loaded.
+[13:53:24]  Loaded 1 plugins.
+
+[13:53:24] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:53:24] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:53:24] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:53:24] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:53:24] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:53:24] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:53:25] 
+[13:53:25] Filterscripts
+[13:53:25] ---------------
+[13:53:25]   Loaded 0 filterscripts.
+
+[13:53:25] Number of vehicle models: 0
+[13:53:35] [connection] incoming connection: 127.0.0.1:63696 id: 0
+[13:53:35] [join] Amper has joined the server (0:127.0.0.1)
+[13:53:37] DIALOG_, dialog_DIALOG_
+[13:53:39] [part] Amper has left the server (0:1)
+[13:55:41] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:55:46] filterscripts = ""  (string)
+[13:55:46] 
+[13:55:46] Server Plugins
+[13:55:46] --------------
+[13:55:46]  Loading plugin: samp-node
+[13:55:46]   Loaded.
+[13:55:46]  Loaded 1 plugins.
+
+[13:55:46] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:55:46] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:55:46] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:55:46] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:55:46] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:55:46] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:55:47] 
+[13:55:47] Filterscripts
+[13:55:47] ---------------
+[13:55:47]   Loaded 0 filterscripts.
+
+[13:55:47] Number of vehicle models: 0
+[13:55:58] [connection] incoming connection: 127.0.0.1:51230 id: 0
+[13:55:58] [join] Amper has joined the server (0:127.0.0.1)
+[13:56:02] DIALOG_, dialog_DIALOG_
+[13:56:55] --- Server Shutting Down.
+[13:56:55] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[13:57:00] filterscripts = ""  (string)
+[13:57:00] 
+[13:57:00] Server Plugins
+[13:57:00] --------------
+[13:57:00]  Loading plugin: samp-node
+[13:57:00]   Loaded.
+[13:57:00]  Loaded 1 plugins.
+
+[13:57:00] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[13:57:00] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[13:57:00] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[13:57:00] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[13:57:00] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[13:57:00] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[13:57:01] 
+[13:57:01] Filterscripts
+[13:57:01] ---------------
+[13:57:01]   Loaded 0 filterscripts.
+
+[13:57:01] Number of vehicle models: 0
+[13:57:22] [connection] incoming connection: 127.0.0.1:60702 id: 0
+[13:57:22] [join] Amper has joined the server (0:127.0.0.1)
+[13:57:22] DIALOG_TEST
+[13:57:24] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:02:23] filterscripts = ""  (string)
+[14:02:23] 
+[14:02:23] Server Plugins
+[14:02:23] --------------
+[14:02:23]  Loading plugin: samp-node
+[14:02:23]   Loaded.
+[14:02:23]  Loaded 1 plugins.
+
+[14:02:23] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:02:23] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:02:23] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:02:23] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:02:23] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:02:23] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:02:23] 
+[14:02:23] Filterscripts
+[14:02:23] ---------------
+[14:02:23]   Loaded 0 filterscripts.
+
+[14:02:23] Number of vehicle models: 0
+[14:02:24] [connection] incoming connection: 127.0.0.1:60873 id: 0
+[14:02:26] [join] Amper has joined the server (0:127.0.0.1)
+[14:02:26] DIALOG_TEST
+[14:02:41] [connection] incoming connection: 127.0.0.1:52588 id: 1
+[14:02:41] [part] Amper has left the server (0:0)
+[14:02:43] [connection] incoming connection: 127.0.0.1:52590 id: 0
+[14:02:43] [join] Amper has joined the server (0:127.0.0.1)
+[14:02:43] DIALOG_TEST
+[14:02:45] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:03:54] filterscripts = ""  (string)
+[14:03:54] 
+[14:03:54] Server Plugins
+[14:03:54] --------------
+[14:03:54]  Loading plugin: samp-node
+[14:03:54]   Loaded.
+[14:03:54]  Loaded 1 plugins.
+
+[14:03:54] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:03:54] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:03:54] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:03:54] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:03:54] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:03:54] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:03:54] 
+[14:03:54] Filterscripts
+[14:03:54] ---------------
+[14:03:54]   Loaded 0 filterscripts.
+
+[14:03:54] Number of vehicle models: 0
+[14:03:56] [connection] incoming connection: 127.0.0.1:52520 id: 0
+[14:03:57] [join] Amper has joined the server (0:127.0.0.1)
+[14:03:57] DIALOG_TEST
+[14:04:13] --- Server Shutting Down.
+[14:04:13] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:04:30] filterscripts = ""  (string)
+[14:04:30] 
+[14:04:30] Server Plugins
+[14:04:30] --------------
+[14:04:30]  Loading plugin: samp-node
+[14:04:30]   Loaded.
+[14:04:30]  Loaded 1 plugins.
+
+[14:04:30] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:04:30] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:04:30] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:04:30] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:04:30] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:04:30] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:04:30] 
+[14:04:30] Filterscripts
+[14:04:30] ---------------
+[14:04:30]   Loaded 0 filterscripts.
+
+[14:04:31] Number of vehicle models: 0
+[14:04:51] [connection] incoming connection: 127.0.0.1:63318 id: 0
+[14:04:51] [join] Amper has joined the server (0:127.0.0.1)
+[14:04:51] DIALOG_TEST
+[14:04:54] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:05:09] filterscripts = ""  (string)
+[14:05:09] 
+[14:05:09] Server Plugins
+[14:05:09] --------------
+[14:05:09]  Loading plugin: samp-node
+[14:05:09]   Loaded.
+[14:05:09]  Loaded 1 plugins.
+
+[14:05:09] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:05:09] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:05:09] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:05:09] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:05:09] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:05:09] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:05:09] 
+[14:05:09] Filterscripts
+[14:05:09] ---------------
+[14:05:09]   Loaded 0 filterscripts.
+
+[14:05:09] Number of vehicle models: 0
+[14:05:10] [connection] incoming connection: 127.0.0.1:63322 id: 0
+[14:05:10] [join] Amper has joined the server (0:127.0.0.1)
+[14:05:10] DIALOG_TEST
+[14:05:10] --- Server Shutting Down.
+[14:05:10] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:05:44] filterscripts = ""  (string)
+[14:05:44] 
+[14:05:44] Server Plugins
+[14:05:44] --------------
+[14:05:44]  Loading plugin: samp-node
+[14:05:44]   Loaded.
+[14:05:44]  Loaded 1 plugins.
+
+[14:05:44] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:05:44] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:05:44] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:05:44] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:05:44] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:05:44] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:05:44] 
+[14:05:44] Filterscripts
+[14:05:44] ---------------
+[14:05:44]   Loaded 0 filterscripts.
+
+[14:05:44] Number of vehicle models: 0
+[14:06:11] [connection] incoming connection: 127.0.0.1:56167 id: 0
+[14:06:11] [join] Amper has joined the server (0:127.0.0.1)
+[14:06:11] DIALOG_TEST
+[14:06:13] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:06:31] filterscripts = ""  (string)
+[14:06:31] 
+[14:06:31] Server Plugins
+[14:06:31] --------------
+[14:06:31]  Loading plugin: samp-node
+[14:06:31]   Loaded.
+[14:06:31]  Loaded 1 plugins.
+
+[14:06:31] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:06:31] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:06:31] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:06:31] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:06:31] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:06:31] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:06:31] 
+[14:06:31] Filterscripts
+[14:06:31] ---------------
+[14:06:31]   Loaded 0 filterscripts.
+
+[14:06:31] Number of vehicle models: 0
+[14:06:34] [connection] incoming connection: 127.0.0.1:56179 id: 0
+[14:06:34] [join] Amper has joined the server (0:127.0.0.1)
+[14:06:38] [part] Amper has left the server (0:1)
+Console input: tsc
+Console input: 
+[14:12:10] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:12:46] filterscripts = ""  (string)
+[14:12:46] 
+[14:12:46] Server Plugins
+[14:12:46] --------------
+[14:12:46]  Loading plugin: samp-node
+[14:12:46]   Loaded.
+[14:12:46]  Loaded 1 plugins.
+
+[14:12:46] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:12:46] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:12:46] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:12:46] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:12:46] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:12:46] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:12:46] 
+[14:12:46] Filterscripts
+[14:12:46] ---------------
+[14:12:46]   Loaded 0 filterscripts.
+
+[14:12:46] Number of vehicle models: 0
+[14:12:57] [connection] incoming connection: 127.0.0.1:53136 id: 0
+[14:12:58] [join] Amper has joined the server (0:127.0.0.1)
+[14:13:00] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:14:44] filterscripts = ""  (string)
+[14:14:44] 
+[14:14:44] Server Plugins
+[14:14:44] --------------
+[14:14:44]  Loading plugin: samp-node
+[14:14:44]   Loaded.
+[14:14:44]  Loaded 1 plugins.
+
+[14:14:44] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:14:44] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:14:44] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:14:44] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:14:44] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:14:44] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:14:44] 
+[14:14:44] Filterscripts
+[14:14:44] ---------------
+[14:14:44]   Loaded 0 filterscripts.
+
+[14:14:44] Number of vehicle models: 0
+[14:14:46] [connection] incoming connection: 127.0.0.1:61521 id: 0
+[14:14:47] [join] Amper has joined the server (0:127.0.0.1)
+[14:15:01] [connection] incoming connection: 127.0.0.1:49229 id: 1
+[14:15:02] [part] Amper has left the server (0:0)
+[14:15:02] [connection] incoming connection: 127.0.0.1:49234 id: 0
+[14:15:02] [join] Amper has joined the server (0:127.0.0.1)
+[14:15:04] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:16:05] filterscripts = ""  (string)
+[14:16:05] 
+[14:16:05] Server Plugins
+[14:16:05] --------------
+[14:16:05]  Loading plugin: samp-node
+[14:16:05]   Loaded.
+[14:16:05]  Loaded 1 plugins.
+
+[14:16:05] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:16:05] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:16:05] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:16:05] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:16:05] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:16:05] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:16:05] 
+[14:16:05] Filterscripts
+[14:16:05] ---------------
+[14:16:05]   Loaded 0 filterscripts.
+
+[14:16:05] Number of vehicle models: 0
+[14:16:07] [connection] incoming connection: 127.0.0.1:54146 id: 0
+[14:16:07] [join] Amper has joined the server (0:127.0.0.1)
+[14:16:11] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:16:25] filterscripts = ""  (string)
+[14:16:25] 
+[14:16:25] Server Plugins
+[14:16:25] --------------
+[14:16:25]  Loading plugin: samp-node
+[14:16:25]   Loaded.
+[14:16:25]  Loaded 1 plugins.
+
+[14:16:25] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:16:25] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:16:25] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:16:25] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:16:25] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:16:25] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:16:25] 
+[14:16:25] Filterscripts
+[14:16:25] ---------------
+[14:16:25]   Loaded 0 filterscripts.
+
+[14:16:25] Number of vehicle models: 0
+[14:16:30] [connection] incoming connection: 127.0.0.1:57979 id: 0
+[14:16:30] [join] Amper has joined the server (0:127.0.0.1)
+[14:16:32] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:23:35] filterscripts = ""  (string)
+[14:23:35] 
+[14:23:35] Server Plugins
+[14:23:35] --------------
+[14:23:35]  Loading plugin: samp-node
+[14:23:35]   Loaded.
+[14:23:35]  Loaded 1 plugins.
+
+[14:23:35] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:23:35] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:23:35] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:23:35] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:23:35] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:23:35] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:23:35] 
+[14:23:35] Filterscripts
+[14:23:35] ---------------
+[14:23:35]   Loaded 0 filterscripts.
+
+[14:23:35] Number of vehicle models: 0
+[14:23:36] [connection] incoming connection: 127.0.0.1:53408 id: 0
+[14:23:37] [join] Amper has joined the server (0:127.0.0.1)
+[14:23:44] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:24:06] filterscripts = ""  (string)
+[14:24:06] 
+[14:24:06] Server Plugins
+[14:24:06] --------------
+[14:24:06]  Loading plugin: samp-node
+[14:24:06]   Loaded.
+[14:24:06]  Loaded 1 plugins.
+
+[14:24:06] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:24:06] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:24:06] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:24:06] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:24:06] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:24:06] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:24:06] 
+[14:24:06] Filterscripts
+[14:24:06] ---------------
+[14:24:06]   Loaded 0 filterscripts.
+
+[14:24:06] Number of vehicle models: 0
+[14:24:07] [connection] incoming connection: 127.0.0.1:55267 id: 0
+[14:24:07] [join] Amper has joined the server (0:127.0.0.1)
+[14:24:13] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:26:16] filterscripts = ""  (string)
+[14:26:16] 
+[14:26:16] Server Plugins
+[14:26:16] --------------
+[14:26:16]  Loading plugin: samp-node
+[14:26:16]   Loaded.
+[14:26:16]  Loaded 1 plugins.
+
+[14:26:16] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:26:16] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:26:16] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:26:16] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:26:16] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:26:16] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:26:16] 
+[14:26:16] Filterscripts
+[14:26:16] ---------------
+[14:26:16]   Loaded 0 filterscripts.
+
+[14:26:16] Number of vehicle models: 0
+[14:26:17] [connection] incoming connection: 127.0.0.1:62019 id: 0
+[14:26:17] [join] Amper has joined the server (0:127.0.0.1)
+[14:26:24] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:27:30] filterscripts = ""  (string)
+[14:27:30] 
+[14:27:30] Server Plugins
+[14:27:30] --------------
+[14:27:30]  Loading plugin: samp-node
+[14:27:30]   Loaded.
+[14:27:30]  Loaded 1 plugins.
+
+[14:27:30] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:27:30] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:27:30] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:27:30] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:27:30] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:27:30] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:27:30] 
+[14:27:30] Filterscripts
+[14:27:30] ---------------
+[14:27:30]   Loaded 0 filterscripts.
+
+[14:27:30] Number of vehicle models: 0
+[14:27:31] [connection] incoming connection: 127.0.0.1:54349 id: 0
+[14:27:31] [join] Amper has joined the server (0:127.0.0.1)
+[14:27:36] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:28:08] filterscripts = ""  (string)
+[14:28:08] 
+[14:28:08] Server Plugins
+[14:28:08] --------------
+[14:28:08]  Loading plugin: samp-node
+[14:28:08]   Loaded.
+[14:28:08]  Loaded 1 plugins.
+
+[14:28:08] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:28:08] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:28:08] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:28:08] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:28:08] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:28:08] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:28:08] 
+[14:28:08] Filterscripts
+[14:28:08] ---------------
+[14:28:08]   Loaded 0 filterscripts.
+
+[14:28:08] Number of vehicle models: 0
+[14:28:11] [connection] incoming connection: 127.0.0.1:63404 id: 0
+[14:28:11] [join] Amper has joined the server (0:127.0.0.1)
+[14:28:13] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:30:04] filterscripts = ""  (string)
+[14:30:04] 
+[14:30:04] Server Plugins
+[14:30:04] --------------
+[14:30:04]  Loading plugin: samp-node
+[14:30:04]   Loaded.
+[14:30:04]  Loaded 1 plugins.
+
+[14:30:04] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:30:04] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:30:04] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:30:04] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:30:04] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:30:04] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:30:04] 
+[14:30:04] Filterscripts
+[14:30:04] ---------------
+[14:30:04]   Loaded 0 filterscripts.
+
+[14:30:04] Number of vehicle models: 0
+[14:30:06] [connection] incoming connection: 127.0.0.1:60590 id: 0
+[14:30:06] [join] Amper has joined the server (0:127.0.0.1)
+[14:30:12] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:30:39] filterscripts = ""  (string)
+[14:30:39] 
+[14:30:39] Server Plugins
+[14:30:39] --------------
+[14:30:39]  Loading plugin: samp-node
+[14:30:39]   Loaded.
+[14:30:39]  Loaded 1 plugins.
+
+[14:30:39] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:30:39] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:30:39] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:30:39] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:30:39] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:30:39] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:30:39] 
+[14:30:39] Filterscripts
+[14:30:39] ---------------
+[14:30:39]   Loaded 0 filterscripts.
+
+[14:30:39] Number of vehicle models: 0
+[14:30:41] [connection] incoming connection: 127.0.0.1:51668 id: 0
+[14:30:41] [join] Amper has joined the server (0:127.0.0.1)
+[14:30:47] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:31:18] filterscripts = ""  (string)
+[14:31:18] 
+[14:31:18] Server Plugins
+[14:31:18] --------------
+[14:31:18]  Loading plugin: samp-node
+[14:31:18]   Loaded.
+[14:31:18]  Loaded 1 plugins.
+
+[14:31:18] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:31:18] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:31:18] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:31:18] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:31:18] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:31:18] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:31:18] 
+[14:31:18] Filterscripts
+[14:31:18] ---------------
+[14:31:18]   Loaded 0 filterscripts.
+
+[14:31:18] Number of vehicle models: 0
+[14:31:21] [connection] incoming connection: 127.0.0.1:53781 id: 0
+[14:31:22] [join] Amper has joined the server (0:127.0.0.1)
+[14:31:23] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:32:02] filterscripts = ""  (string)
+[14:32:02] 
+[14:32:02] Server Plugins
+[14:32:02] --------------
+[14:32:02]  Loading plugin: samp-node
+[14:32:02]   Loaded.
+[14:32:02]  Loaded 1 plugins.
+
+[14:32:02] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:32:02] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:32:02] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:32:02] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:32:02] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:32:02] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:32:02] 
+[14:32:02] Filterscripts
+[14:32:02] ---------------
+[14:32:02]   Loaded 0 filterscripts.
+
+[14:32:02] Number of vehicle models: 0
+[14:32:04] [connection] incoming connection: 127.0.0.1:49891 id: 0
+[14:32:04] [join] Amper has joined the server (0:127.0.0.1)
+[14:32:10] DIALOG_TEST, dialog_DIALOG_TEST
+[14:32:31] --- Server Shutting Down.
+[14:32:31] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:33:05] filterscripts = ""  (string)
+[14:33:05] 
+[14:33:05] Server Plugins
+[14:33:05] --------------
+[14:33:05]  Loading plugin: samp-node
+[14:33:05]   Loaded.
+[14:33:05]  Loaded 1 plugins.
+
+[14:33:05] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:33:05] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:33:05] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:33:05] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:33:05] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:33:05] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:33:05] 
+[14:33:05] Filterscripts
+[14:33:05] ---------------
+[14:33:05]   Loaded 0 filterscripts.
+
+[14:33:05] Number of vehicle models: 0
+[14:33:28] [connection] incoming connection: 127.0.0.1:58743 id: 0
+[14:33:28] [join] Amper has joined the server (0:127.0.0.1)
+[14:33:31] DIALOG_TEST, dialog_DIALOG_TEST
+[14:33:38] --- Server Shutting Down.
+[14:33:38] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:33:39] filterscripts = ""  (string)
+[14:33:39] 
+[14:33:39] Server Plugins
+[14:33:39] --------------
+[14:33:39]  Loading plugin: samp-node
+[14:33:39]   Loaded.
+[14:33:39]  Loaded 1 plugins.
+
+[14:33:39] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:33:39] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:33:39] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:33:39] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:33:39] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:33:39] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:33:39] 
+[14:33:39] Filterscripts
+[14:33:39] ---------------
+[14:33:39]   Loaded 0 filterscripts.
+
+[14:33:39] Number of vehicle models: 0
+[14:34:01] [connection] incoming connection: 127.0.0.1:50934 id: 0
+[14:34:01] [join] Amper has joined the server (0:127.0.0.1)
+[14:34:02] DIALOG_TEST, dialog_DIALOG_TEST
+[14:47:56] --- Server Shutting Down.
+[14:47:56] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:06:00] filterscripts = ""  (string)
+[17:06:00] 
+[17:06:00] Server Plugins
+[17:06:00] --------------
+[17:06:00]  Loading plugin: samp-node
+[17:06:00]   Loaded.
+[17:06:00]  Loaded 1 plugins.
+
+[17:06:00] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:06:00] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:06:00] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:06:00] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:06:00] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:06:00] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:06:00] 
+[17:06:00] Filterscripts
+[17:06:00] ---------------
+[17:06:00]   Loaded 0 filterscripts.
+
+[17:06:00] Number of vehicle models: 0
+[17:06:23] [connection] incoming connection: 127.0.0.1:57126 id: 0
+[17:06:23] [join] Amper has joined the server (0:127.0.0.1)
+[17:06:26] DIALOG_TEST, dialog_DIALOG_TEST
+[17:09:49] --- Server Shutting Down.
+[17:09:49] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:09:51] filterscripts = ""  (string)
+[17:09:51] 
+[17:09:51] Server Plugins
+[17:09:51] --------------
+[17:09:51]  Loading plugin: samp-node
+[17:09:51]   Loaded.
+[17:09:51]  Loaded 1 plugins.
+
+[17:09:51] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:09:51] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:09:51] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:09:51] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:09:51] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:09:51] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:09:51] 
+[17:09:51] Filterscripts
+[17:09:51] ---------------
+[17:09:51]   Loaded 0 filterscripts.
+
+[17:09:51] Number of vehicle models: 0
+[17:09:54] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:09:57] filterscripts = ""  (string)
+[17:09:57] 
+[17:09:57] Server Plugins
+[17:09:57] --------------
+[17:09:57]  Loading plugin: samp-node
+[17:09:58]   Loaded.
+[17:09:58]  Loaded 1 plugins.
+
+[17:09:58] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:09:58] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:09:58] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:09:58] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:09:58] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:09:58] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:09:58] 
+[17:09:58] Filterscripts
+[17:09:58] ---------------
+[17:09:58]   Loaded 0 filterscripts.
+
+[17:09:58] Number of vehicle models: 0
+[17:10:17] [connection] incoming connection: 127.0.0.1:57974 id: 0
+[17:10:17] [join] Amper has joined the server (0:127.0.0.1)
+[17:10:19] DIALOG_TEST, dialog_DIALOG_TEST
+[17:10:52] --- Server Shutting Down.
+[17:10:52] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:13:02] filterscripts = ""  (string)
+[17:13:02] 
+[17:13:02] Server Plugins
+[17:13:02] --------------
+[17:13:02]  Loading plugin: samp-node
+[17:13:02]   Loaded.
+[17:13:02]  Loaded 1 plugins.
+
+[17:13:02] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:13:02] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:13:02] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:13:02] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:13:02] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:13:02] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:13:02] 
+[17:13:02] Filterscripts
+[17:13:02] ---------------
+[17:13:02]   Loaded 0 filterscripts.
+
+[17:13:02] Number of vehicle models: 0
+[17:13:21] [connection] incoming connection: 127.0.0.1:53653 id: 0
+[17:13:21] [join] Amper has joined the server (0:127.0.0.1)
+[17:13:23] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:14:58] filterscripts = ""  (string)
+[17:14:58] 
+[17:14:58] Server Plugins
+[17:14:58] --------------
+[17:14:58]  Loading plugin: samp-node
+[17:14:59]   Loaded.
+[17:14:59]  Loaded 1 plugins.
+
+[17:14:59] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:14:59] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:14:59] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:14:59] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:14:59] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:14:59] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:14:59] 
+[17:14:59] Filterscripts
+[17:14:59] ---------------
+[17:14:59]   Loaded 0 filterscripts.
+
+[17:14:59] Number of vehicle models: 0
+[17:15:03] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:15:04] filterscripts = ""  (string)
+[17:15:04] 
+[17:15:04] Server Plugins
+[17:15:04] --------------
+[17:15:04]  Loading plugin: samp-node
+[17:15:04]   Loaded.
+[17:15:04]  Loaded 1 plugins.
+
+[17:15:04] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:15:04] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:15:04] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:15:04] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:15:04] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:15:04] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:15:04] 
+[17:15:04] Filterscripts
+[17:15:04] ---------------
+[17:15:04]   Loaded 0 filterscripts.
+
+[17:15:04] Number of vehicle models: 0
+[17:15:05] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:15:06] filterscripts = ""  (string)
+[17:15:06] 
+[17:15:06] Server Plugins
+[17:15:06] --------------
+[17:15:06]  Loading plugin: samp-node
+[17:15:06]   Loaded.
+[17:15:06]  Loaded 1 plugins.
+
+[17:15:06] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:15:06] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:15:06] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:15:06] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:15:06] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:15:06] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:15:06] 
+[17:15:06] Filterscripts
+[17:15:06] ---------------
+[17:15:06]   Loaded 0 filterscripts.
+
+[17:15:06] Number of vehicle models: 0
+[17:15:07] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:15:19] filterscripts = ""  (string)
+[17:15:19] 
+[17:15:19] Server Plugins
+[17:15:19] --------------
+[17:15:19]  Loading plugin: samp-node
+[17:15:19]   Loaded.
+[17:15:19]  Loaded 1 plugins.
+
+[17:15:19] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:15:19] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:15:19] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:15:19] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:15:19] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:15:19] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:15:19] 
+[17:15:19] Filterscripts
+[17:15:19] ---------------
+[17:15:19]   Loaded 0 filterscripts.
+
+[17:15:19] Number of vehicle models: 0
+[17:15:23] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:15:42] filterscripts = ""  (string)
+[17:15:42] 
+[17:15:42] Server Plugins
+[17:15:42] --------------
+[17:15:42]  Loading plugin: samp-node
+[17:15:42]   Loaded.
+[17:15:42]  Loaded 1 plugins.
+
+[17:15:42] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:15:42] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:15:42] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:15:42] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:15:42] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:15:42] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:15:42] 
+[17:15:42] Filterscripts
+[17:15:42] ---------------
+[17:15:42]   Loaded 0 filterscripts.
+
+[17:15:42] Number of vehicle models: 0
+[17:16:08] [connection] incoming connection: 127.0.0.1:61319 id: 0
+[17:16:08] [join] Amper has joined the server (0:127.0.0.1)
+[17:16:09] DIALOG_TEST, dialog_DIALOG_TEST
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:16:46] filterscripts = ""  (string)
+[17:16:46] 
+[17:16:46] Server Plugins
+[17:16:46] --------------
+[17:16:46]  Loading plugin: samp-node
+[17:16:46]   Loaded.
+[17:16:46]  Loaded 1 plugins.
+
+[17:16:46] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:16:46] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:16:46] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:16:46] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:16:46] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:16:46] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:16:46] 
+[17:16:46] Filterscripts
+[17:16:46] ---------------
+[17:16:46]   Loaded 0 filterscripts.
+
+[17:16:46] Number of vehicle models: 0
+[17:16:48] [connection] incoming connection: 127.0.0.1:59936 id: 0
+[17:16:49] [join] Amper has joined the server (0:127.0.0.1)
+[17:16:53] DIALOG_TEST, dialog_DIALOG_TEST
+Console input: {
+Console input: 	"resource": "/c:/Users/gurka/Desktop/deathmatch-node/js-gamemode/src/globals.ts",
+Console input: 	"owner": "typescript",
+Console input: 	"code": "2580",
+Console input: 	"severity": 8,
+Console input: 	"message": "Cannot find name 'module'. Do you need to install type definitions for node? Try `npm i @types/node`.",
+Console input: 	"source": "ts",
+Console input: 	"startLineNumber": 1,
+Console input: 	"startColumn": 1,
+Console input: 	"endLineNumber": 1,
+Console input: 	"endColumn": 7
+[17:22:00] --- Server Shutting Down.
+[17:22:00] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:43:18] filterscripts = ""  (string)
+[17:43:18] 
+[17:43:18] Server Plugins
+[17:43:18] --------------
+[17:43:18]  Loading plugin: samp-node
+[17:43:18]   Loaded.
+[17:43:18]  Loaded 1 plugins.
+
+[17:43:18] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:43:18] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:43:18] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:43:18] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:43:18] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:43:19] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:43:19] 
+[17:43:19] Filterscripts
+[17:43:19] ---------------
+[17:43:19]   Loaded 0 filterscripts.
+
+[17:43:19] Number of vehicle models: 0
+[17:43:49] [connection] incoming connection: 127.0.0.1:49348 id: 0
+[17:43:49] [join] Amper has joined the server (0:127.0.0.1)
+[17:43:51] DIALOG_TEST, dialog_DIALOG_TEST
+[17:53:16] --- Server Shutting Down.
+[17:53:16] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:53:23] filterscripts = ""  (string)
+[17:53:23] 
+[17:53:23] Server Plugins
+[17:53:23] --------------
+[17:53:23]  Loading plugin: samp-node
+[17:53:23]   Loaded.
+[17:53:23]  Loaded 1 plugins.
+
+[17:53:23] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:53:23] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:53:23] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:53:23] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:53:23] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:53:23] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:53:23] 
+[17:53:23] Filterscripts
+[17:53:23] ---------------
+[17:53:23]   Loaded 0 filterscripts.
+
+[17:53:23] Number of vehicle models: 0
+[17:53:44] [connection] incoming connection: 127.0.0.1:62801 id: 0
+[17:53:44] [join] Amper has joined the server (0:127.0.0.1)
+[17:53:46] DIALOG_TEST, dialog_DIALOG_TEST
+[17:54:01] --- Server Shutting Down.
+[17:54:01] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[18:10:54] filterscripts = ""  (string)
+[18:10:54] 
+[18:10:54] Server Plugins
+[18:10:54] --------------
+[18:10:54]  Loading plugin: samp-node
+[18:10:54]   Loaded.
+[18:10:54]  Loaded 1 plugins.
+
+[18:10:54] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[18:10:54] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[18:10:54] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[18:10:54] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[18:10:54] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[18:10:54] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[18:10:54] 
+[18:10:54] Filterscripts
+[18:10:54] ---------------
+[18:10:54]   Loaded 0 filterscripts.
+
+[18:10:54] Number of vehicle models: 0
+[18:11:14] [connection] incoming connection: 127.0.0.1:63275 id: 0
+[18:11:14] [join] Amper has joined the server (0:127.0.0.1)
+[18:11:18] name, dialog_name
+[18:11:53] --- Server Shutting Down.
+[18:11:53] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[18:12:17] filterscripts = ""  (string)
+[18:12:17] 
+[18:12:17] Server Plugins
+[18:12:17] --------------
+[18:12:17]  Loading plugin: samp-node
+[18:12:17]   Loaded.
+[18:12:17]  Loaded 1 plugins.
+
+[18:12:17] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[18:12:17] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[18:12:17] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[18:12:17] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[18:12:17] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[18:12:17] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[18:12:17] 
+[18:12:17] Filterscripts
+[18:12:17] ---------------
+[18:12:17]   Loaded 0 filterscripts.
+
+[18:12:17] Number of vehicle models: 0
+[18:12:34] [connection] incoming connection: 127.0.0.1:56547 id: 0
+[18:12:34] [join] Amper has joined the server (0:127.0.0.1)
+[18:12:36] DIALOG_TEST, dialog_DIALOG_TEST
+[18:34:28] --- Server Shutting Down.
+[18:34:28] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[18:34:57] filterscripts = ""  (string)
+[18:34:57] 
+[18:34:57] Server Plugins
+[18:34:57] --------------
+[18:34:57]  Loading plugin: samp-node
+[18:34:57]   Loaded.
+[18:34:57]  Loaded 1 plugins.
+
+[18:34:57] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[18:34:57] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[18:34:57] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[18:34:57] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[18:34:57] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[18:34:57] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[18:34:58] 
+[18:34:58] Filterscripts
+[18:34:58] ---------------
+[18:34:58]   Loaded 0 filterscripts.
+
+[18:34:58] Number of vehicle models: 0
+[18:35:18] [connection] incoming connection: 127.0.0.1:52215 id: 0
+[18:35:18] [join] Amper has joined the server (0:127.0.0.1)
+[18:35:23] DIALOG_TEST, dialog_DIALOG_TEST
+[18:37:11] --- Server Shutting Down.
+[18:37:11] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[18:39:36] filterscripts = ""  (string)
+[18:39:36] 
+[18:39:36] Server Plugins
+[18:39:36] --------------
+[18:39:36]  Loading plugin: samp-node
+[18:39:36]   Loaded.
+[18:39:36]  Loaded 1 plugins.
+
+[18:39:36] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[18:39:36] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[18:39:36] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[18:39:36] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[18:39:36] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[18:39:36] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[18:39:36] 
+[18:39:36] Filterscripts
+[18:39:36] ---------------
+[18:39:36]   Loaded 0 filterscripts.
+
+[18:39:36] Number of vehicle models: 0
+[18:39:53] [connection] incoming connection: 127.0.0.1:62766 id: 0
+[18:39:54] [join] Amper has joined the server (0:127.0.0.1)
+[18:39:59] DIALOG_TEST, dialog_DIALOG_TEST
+[18:45:23] --- Server Shutting Down.
+[18:45:23] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[18:58:38] filterscripts = ""  (string)
+[18:58:38] 
+[18:58:38] Server Plugins
+[18:58:38] --------------
+[18:58:38]  Loading plugin: samp-node
+[18:58:38]   Loaded.
+[18:58:38]  Loaded 1 plugins.
+
+[18:58:38] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[18:58:38] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[18:58:38] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[18:58:38] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[18:58:38] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[18:58:38] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[18:58:38] 
+[18:58:38] Filterscripts
+[18:58:38] ---------------
+[18:58:38]   Loaded 0 filterscripts.
+
+[18:58:38] Number of vehicle models: 0
+[18:58:56] [connection] incoming connection: 127.0.0.1:59218 id: 0
+[18:58:56] [join] Amper has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:01:22] filterscripts = ""  (string)
+[19:01:22] 
+[19:01:22] Server Plugins
+[19:01:22] --------------
+[19:01:22]  Loading plugin: samp-node
+[19:01:22]   Loaded.
+[19:01:22]  Loaded 1 plugins.
+
+[19:01:22] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[19:01:22] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[19:01:22] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[19:01:22] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[19:01:22] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[19:01:22] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[19:01:23] 
+[19:01:23] Filterscripts
+[19:01:23] ---------------
+[19:01:23]   Loaded 0 filterscripts.
+
+[19:01:23] Number of vehicle models: 0
+[19:01:24] [connection] incoming connection: 127.0.0.1:50898 id: 0
+[19:01:24] [join] Amper has joined the server (0:127.0.0.1)
+[19:01:28] DIALOG_TEST, dialog_DIALOG_TEST
+[19:01:33] [part] Amper has left the server (0:1)
+[19:01:49] [connection] incoming connection: 127.0.0.1:57097 id: 0
+[19:01:49] [join] Amper has joined the server (0:127.0.0.1)
+[19:01:50] DIALOG_TEST, dialog_DIALOG_TEST
+[19:01:50] [part] Amper has left the server (0:1)
+[19:02:19] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:02:24] filterscripts = ""  (string)
+[19:02:24] 
+[19:02:24] Server Plugins
+[19:02:24] --------------
+[19:02:24]  Loading plugin: samp-node
+[19:02:24]   Loaded.
+[19:02:24]  Loaded 1 plugins.
+
+[19:02:24] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[19:02:24] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[19:02:24] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[19:02:24] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[19:02:24] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[19:02:24] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[19:02:24] 
+[19:02:24] Filterscripts
+[19:02:24] ---------------
+[19:02:24]   Loaded 0 filterscripts.
+
+[19:02:24] Number of vehicle models: 0
+[19:02:34] [connection] incoming connection: 127.0.0.1:49821 id: 0
+[19:02:34] [join] Amper has joined the server (0:127.0.0.1)
+[19:02:36] DIALOG_TEST, dialog_DIALOG_TEST
+[19:02:38] [part] Amper has left the server (0:1)
+[19:03:15] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:03:35] filterscripts = ""  (string)
+[19:03:35] 
+[19:03:35] Server Plugins
+[19:03:35] --------------
+[19:03:35]  Loading plugin: samp-node
+[19:03:35]   Loaded.
+[19:03:35]  Loaded 1 plugins.
+
+[19:03:35] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[19:03:35] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[19:03:35] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[19:03:35] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[19:03:35] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[19:03:35] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[19:03:35] 
+[19:03:35] Filterscripts
+[19:03:35] ---------------
+[19:03:35]   Loaded 0 filterscripts.
+
+[19:03:35] Number of vehicle models: 0
+[19:03:46] [connection] incoming connection: 127.0.0.1:55401 id: 0
+[19:03:46] [join] Amper has joined the server (0:127.0.0.1)
+[19:11:22] --- Server Shutting Down.
+[19:11:22] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:11:39] filterscripts = ""  (string)
+[19:11:39] 
+[19:11:39] Server Plugins
+[19:11:39] --------------
+[19:11:39]  Loading plugin: samp-node
+[19:11:39]   Loaded.
+[19:11:39]  Loaded 1 plugins.
+
+[19:11:39] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[19:11:39] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[19:11:39] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[19:11:39] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[19:11:39] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[19:11:39] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[19:11:39] 
+[19:11:39] Filterscripts
+[19:11:39] ---------------
+[19:11:39]   Loaded 0 filterscripts.
+
+[19:11:39] Number of vehicle models: 0
+[19:12:03] [connection] incoming connection: 127.0.0.1:50350 id: 0
+[19:12:03] [join] Amper has joined the server (0:127.0.0.1)
+[19:12:13] DIALOG_TEST, dialog_DIALOG_TEST
+[19:12:14] [part] Amper has left the server (0:1)
+[19:13:06] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:13:35] filterscripts = ""  (string)
+[19:13:35] 
+[19:13:35] Server Plugins
+[19:13:35] --------------
+[19:13:35]  Loading plugin: samp-node
+[19:13:35]   Loaded.
+[19:13:35]  Loaded 1 plugins.
+
+[19:13:35] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[19:13:35] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[19:13:35] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[19:13:35] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[19:13:35] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[19:13:35] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[19:13:35] 
+[19:13:35] Filterscripts
+[19:13:35] ---------------
+[19:13:35]   Loaded 0 filterscripts.
+
+[19:13:35] Number of vehicle models: 0
+[19:13:46] [connection] incoming connection: 127.0.0.1:63640 id: 0
+[19:13:47] [join] Amper has joined the server (0:127.0.0.1)
+[19:13:48] DIALOG_TEST, dialog_DIALOG_TEST
+[19:14:03] [part] Amper has left the server (0:1)
+[19:14:26] [connection] incoming connection: 127.0.0.1:60832 id: 0
+[19:14:26] [join] Amper has joined the server (0:127.0.0.1)
+[19:14:43] DIALOG_TEST, dialog_DIALOG_TEST
+[19:14:46] [part] Amper has left the server (0:1)
+[19:14:48] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:16:51] filterscripts = ""  (string)
+[19:16:51] 
+[19:16:51] Server Plugins
+[19:16:51] --------------
+[19:16:51]  Loading plugin: samp-node
+[19:16:52]   Loaded.
+[19:16:52]  Loaded 1 plugins.
+
+[19:16:52] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[19:16:52] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[19:16:52] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[19:16:52] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[19:16:52] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[19:16:52] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[19:16:52] 
+[19:16:52] Filterscripts
+[19:16:52] ---------------
+[19:16:52]   Loaded 0 filterscripts.
+
+[19:16:52] Number of vehicle models: 0
+[19:17:04] [connection] incoming connection: 127.0.0.1:57170 id: 0
+[19:17:04] [join] Amper has joined the server (0:127.0.0.1)
+[19:17:06] DIALOG_TEST, dialog_DIALOG_TEST
+[19:17:07] [part] Amper has left the server (0:1)
+[19:17:23] [connection] incoming connection: 127.0.0.1:53010 id: 0
+[19:17:23] [join] Amper has joined the server (0:127.0.0.1)
+[19:20:47] --- Server Shutting Down.
+[19:20:47] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:22:08] filterscripts = ""  (string)
+[19:22:08] 
+[19:22:08] Server Plugins
+[19:22:08] --------------
+[19:22:08]  Loading plugin: samp-node
+[19:22:08]   Loaded.
+[19:22:08]  Loaded 1 plugins.
+
+[19:22:08] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[19:22:08] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[19:22:08] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[19:22:08] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[19:22:08] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[19:22:08] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[19:22:08] 
+[19:22:08] Filterscripts
+[19:22:08] ---------------
+[19:22:08]   Loaded 0 filterscripts.
+
+[19:22:08] Number of vehicle models: 0
+[19:22:40] [connection] incoming connection: 127.0.0.1:51943 id: 0
+[19:22:40] [join] Amper has joined the server (0:127.0.0.1)
+[19:22:44] DIALOG_TEST, dialog_DIALOG_TEST
+[19:22:47] [part] Amper has left the server (0:1)
+[19:23:24] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:23:29] filterscripts = ""  (string)
+[19:23:29] 
+[19:23:29] Server Plugins
+[19:23:29] --------------
+[19:23:29]  Loading plugin: samp-node
+[19:23:29]   Loaded.
+[19:23:29]  Loaded 1 plugins.
+
+[19:23:29] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[19:23:29] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[19:23:29] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[19:23:29] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[19:23:29] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[19:23:29] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[19:23:29] 
+[19:23:29] Filterscripts
+[19:23:29] ---------------
+[19:23:29]   Loaded 0 filterscripts.
+
+[19:23:29] Number of vehicle models: 0
+[19:23:40] [connection] incoming connection: 127.0.0.1:59216 id: 0
+[19:23:40] [join] Amper has joined the server (0:127.0.0.1)
+Console input: tsc
+[19:27:37] --- Server Shutting Down.
+[19:27:37] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:28:37] filterscripts = ""  (string)
+[19:28:37] 
+[19:28:37] Server Plugins
+[19:28:37] --------------
+[19:28:37]  Loading plugin: samp-node
+[19:28:37]   Loaded.
+[19:28:37]  Loaded 1 plugins.
+
+[19:28:37] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[19:28:37] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[19:28:37] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[19:28:37] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[19:28:37] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[19:28:37] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[19:28:37] 
+[19:28:37] Filterscripts
+[19:28:37] ---------------
+[19:28:37]   Loaded 0 filterscripts.
+
+[19:28:37] Number of vehicle models: 0
+[19:29:00] [connection] incoming connection: 127.0.0.1:54247 id: 0
+[19:29:00] [join] Amper has joined the server (0:127.0.0.1)
+[19:29:12] --- Server Shutting Down.
+[19:29:12] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:29:17] filterscripts = ""  (string)
+[19:29:17] 
+[19:29:17] Server Plugins
+[19:29:17] --------------
+[19:29:17]  Loading plugin: samp-node
+[19:29:18]   Loaded.
+[19:29:18]  Loaded 1 plugins.
+
+[19:29:18] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[19:29:18] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[19:29:18] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[19:29:18] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[19:29:18] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[19:29:18] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[19:29:18] 
+[19:29:18] Filterscripts
+[19:29:18] ---------------
+[19:29:18]   Loaded 0 filterscripts.
+
+[19:29:18] Number of vehicle models: 0
+[19:29:36] [connection] incoming connection: 127.0.0.1:55441 id: 0
+[19:29:37] [join] Amper has joined the server (0:127.0.0.1)
+Console input: ”
+[19:30:17] DIALOG_TEST, dialog_DIALOG_TEST
+[19:30:18] [part] Amper has left the server (0:1)
+[19:30:45] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:30:47] filterscripts = ""  (string)
+[19:30:47] 
+[19:30:47] Server Plugins
+[19:30:47] --------------
+[19:30:47]  Loading plugin: samp-node
+[19:30:47]   Loaded.
+[19:30:47]  Loaded 1 plugins.
+
+[19:30:47] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[19:30:47] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[19:30:47] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[19:30:47] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[19:30:47] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[19:30:47] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[19:30:47] 
+[19:30:47] Filterscripts
+[19:30:47] ---------------
+[19:30:47]   Loaded 0 filterscripts.
+
+[19:30:47] Number of vehicle models: 0
+[19:30:57] [connection] incoming connection: 127.0.0.1:50347 id: 0
+[19:30:57] [join] Amper has joined the server (0:127.0.0.1)
+[19:31:10] --- Server Shutting Down.
+[19:31:10] [part] Amper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:31:15] filterscripts = ""  (string)
+[19:31:15] 
+[19:31:15] Server Plugins
+[19:31:15] --------------
+[19:31:15]  Loading plugin: samp-node
+[19:31:15]   Loaded.
+[19:31:15]  Loaded 1 plugins.
+
+[19:31:15] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[19:31:15] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[19:31:15] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[19:31:15] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[19:31:15] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[19:31:15] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[19:31:15] 
+[19:31:15] Filterscripts
+[19:31:15] ---------------
+[19:31:15]   Loaded 0 filterscripts.
+
+[19:31:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:24:33] filterscripts = ""  (string)
+[22:24:33] 
+[22:24:33] Server Plugins
+[22:24:33] --------------
+[22:24:33]  Loading plugin: samp-node
+[22:24:33]   Loaded.
+[22:24:33]  Loaded 1 plugins.
+
+[22:24:33] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:24:33] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:24:33] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:24:33] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:24:33] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:24:33] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:24:33] 
+[22:24:33] Filterscripts
+[22:24:33] ---------------
+[22:24:33]   Loaded 0 filterscripts.
+
+[22:24:33] Number of vehicle models: 0
+[22:24:37] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:24:48] filterscripts = ""  (string)
+[22:24:48] 
+[22:24:48] Server Plugins
+[22:24:48] --------------
+[22:24:48]  Loading plugin: samp-node
+[22:24:48]   Loaded.
+[22:24:48]  Loaded 1 plugins.
+
+[22:24:48] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:24:48] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:24:48] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:24:48] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:24:48] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:24:48] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:24:48] 
+[22:24:48] Filterscripts
+[22:24:48] ---------------
+[22:24:48]   Loaded 0 filterscripts.
+
+[22:24:48] Number of vehicle models: 0
+[22:24:56] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:25:12] filterscripts = ""  (string)
+[22:25:12] 
+[22:25:12] Server Plugins
+[22:25:12] --------------
+[22:25:12]  Loading plugin: samp-node
+[22:25:13]   Loaded.
+[22:25:13]  Loaded 1 plugins.
+
+[22:25:13] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:25:13] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:25:13] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:25:13] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:25:13] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:25:13] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:25:13] 
+[22:25:13] Filterscripts
+[22:25:13] ---------------
+[22:25:13]   Loaded 0 filterscripts.
+
+[22:25:13] Number of vehicle models: 0
+[22:25:28] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:25:34] filterscripts = ""  (string)
+[22:25:34] 
+[22:25:34] Server Plugins
+[22:25:34] --------------
+[22:25:34]  Loading plugin: samp-node
+[22:25:35]   Loaded.
+[22:25:35]  Loaded 1 plugins.
+
+[22:25:35] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:25:35] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:25:35] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:25:35] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:25:35] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:25:35] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:25:35] 
+[22:25:35] Filterscripts
+[22:25:35] ---------------
+[22:25:35]   Loaded 0 filterscripts.
+
+[22:25:35] Number of vehicle models: 0
+[22:25:41] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:25:51] filterscripts = ""  (string)
+[22:25:51] 
+[22:25:51] Server Plugins
+[22:25:51] --------------
+[22:25:51]  Loading plugin: samp-node
+[22:25:52]   Loaded.
+[22:25:52]  Loaded 1 plugins.
+
+[22:25:52] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:25:52] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:25:52] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:25:52] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:25:52] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:25:52] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:25:52] 
+[22:25:52] Filterscripts
+[22:25:52] ---------------
+[22:25:52]   Loaded 0 filterscripts.
+
+[22:25:52] Number of vehicle models: 0
+[22:26:30] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:26:55] filterscripts = ""  (string)
+[22:26:55] 
+[22:26:55] Server Plugins
+[22:26:55] --------------
+[22:26:55]  Loading plugin: samp-node
+[22:26:55]   Loaded.
+[22:26:55]  Loaded 1 plugins.
+
+[22:26:55] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:26:55] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:26:55] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:26:55] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:26:55] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:26:55] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:26:56] 
+[22:26:56] Filterscripts
+[22:26:56] ---------------
+[22:26:56]   Loaded 0 filterscripts.
+
+[22:26:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:29:26] filterscripts = ""  (string)
+[22:29:26] 
+[22:29:26] Server Plugins
+[22:29:26] --------------
+[22:29:26]  Loading plugin: samp-node
+[22:29:27]   Loaded.
+[22:29:27]  Loaded 1 plugins.
+
+[22:29:27] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:29:27] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:29:27] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:29:27] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:29:27] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:29:27] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:29:27] 
+[22:29:27] Filterscripts
+[22:29:27] ---------------
+[22:29:27]   Loaded 0 filterscripts.
+
+[22:29:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:29:49] filterscripts = ""  (string)
+[22:29:49] 
+[22:29:49] Server Plugins
+[22:29:49] --------------
+[22:29:49]  Loading plugin: samp-node
+[22:29:50]   Loaded.
+[22:29:50]  Loaded 1 plugins.
+
+[22:29:50] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:29:50] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:29:50] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:29:50] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:29:50] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:29:50] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:29:50] 
+[22:29:50] Filterscripts
+[22:29:50] ---------------
+[22:29:50]   Loaded 0 filterscripts.
+
+[22:29:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:33:58] filterscripts = ""  (string)
+[22:33:58] 
+[22:33:58] Server Plugins
+[22:33:58] --------------
+[22:33:58]  Loading plugin: samp-node
+[22:33:59]   Loaded.
+[22:33:59]  Loaded 1 plugins.
+
+[22:33:59] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:33:59] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:33:59] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:33:59] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:33:59] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:33:59] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:33:59] 
+[22:33:59] Filterscripts
+[22:33:59] ---------------
+[22:33:59]   Loaded 0 filterscripts.
+
+[22:33:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:34:12] filterscripts = ""  (string)
+[22:34:12] 
+[22:34:12] Server Plugins
+[22:34:12] --------------
+[22:34:12]  Loading plugin: samp-node
+[22:34:13]   Loaded.
+[22:34:13]  Loaded 1 plugins.
+
+[22:34:13] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:34:13] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:34:13] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:34:13] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:34:13] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:34:13] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:34:13] 
+[22:34:13] Filterscripts
+[22:34:13] ---------------
+[22:34:13]   Loaded 0 filterscripts.
+
+[22:34:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:34:29] filterscripts = ""  (string)
+[22:34:29] 
+[22:34:29] Server Plugins
+[22:34:29] --------------
+[22:34:29]  Loading plugin: samp-node
+[22:34:29]   Loaded.
+[22:34:29]  Loaded 1 plugins.
+
+[22:34:29] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:34:29] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:34:29] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:34:29] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:34:29] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:34:29] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:34:29] 
+[22:34:29] Filterscripts
+[22:34:29] ---------------
+[22:34:29]   Loaded 0 filterscripts.
+
+[22:34:29] Number of vehicle models: 0
+[22:34:57] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:34:58] filterscripts = ""  (string)
+[22:34:58] 
+[22:34:58] Server Plugins
+[22:34:58] --------------
+[22:34:58]  Loading plugin: samp-node
+[22:34:58]   Loaded.
+[22:34:58]  Loaded 1 plugins.
+
+[22:34:58] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:34:58] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:34:58] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:34:58] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:34:58] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:34:58] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:34:58] 
+[22:34:58] Filterscripts
+[22:34:58] ---------------
+[22:34:58]   Loaded 0 filterscripts.
+
+[22:34:58] Number of vehicle models: 0
+[22:34:59] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:35:04] filterscripts = ""  (string)
+[22:35:04] 
+[22:35:04] Server Plugins
+[22:35:04] --------------
+[22:35:04]  Loading plugin: samp-node
+[22:35:05]   Loaded.
+[22:35:05]  Loaded 1 plugins.
+
+[22:35:05] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:35:05] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:35:05] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:35:05] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:35:05] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:35:05] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:35:05] 
+[22:35:05] Filterscripts
+[22:35:05] ---------------
+[22:35:05]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[22:35:19] filterscripts = ""  (string)
+[22:35:19] 
+[22:35:19] Server Plugins
+[22:35:19] --------------
+[22:35:19]  Loading plugin: samp-node
+[22:35:20]   Loaded.
+[22:35:20]  Loaded 1 plugins.
+
+[22:35:20] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:35:20] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:35:20] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:35:20] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:35:20] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:35:20] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:35:20] 
+[22:35:20] Filterscripts
+[22:35:20] ---------------
+[22:35:20]   Loaded 0 filterscripts.
+
+[22:35:20] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[03:47:36] filterscripts = ""  (string)
+[03:47:36] 
+[03:47:36] Server Plugins
+[03:47:36] --------------
+[03:47:36]  Loading plugin: samp-node
+[03:47:36]   Loaded.
+[03:47:36]  Loaded 1 plugins.
+
+[03:47:36] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[03:47:36] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[03:47:36] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[03:47:36] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[03:47:36] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[03:47:36] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[03:47:36] 
+[03:47:36] Filterscripts
+[03:47:36] ---------------
+[03:47:36]   Loaded 0 filterscripts.
+
+[03:47:36] Number of vehicle models: 0
+[03:47:39] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[03:48:12] filterscripts = ""  (string)
+[03:48:12] 
+[03:48:12] Server Plugins
+[03:48:12] --------------
+[03:48:12]  Loading plugin: samp-node
+[03:48:12]   Loaded.
+[03:48:12]  Loaded 1 plugins.
+
+[03:48:12] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[03:48:12] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[03:48:12] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[03:48:12] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[03:48:12] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[03:48:12] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[03:48:12] 
+[03:48:12] Filterscripts
+[03:48:12] ---------------
+[03:48:12]   Loaded 0 filterscripts.
+
+[03:48:12] Number of vehicle models: 0
+[03:48:14] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[03:48:16] filterscripts = ""  (string)
+[03:48:16] 
+[03:48:16] Server Plugins
+[03:48:16] --------------
+[03:48:16]  Loading plugin: samp-node
+[03:48:16]   Loaded.
+[03:48:16]  Loaded 1 plugins.
+
+[03:48:17] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[03:48:17] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[03:48:17] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[03:48:17] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[03:48:17] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[03:48:17] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[03:48:17] 
+[03:48:17] Filterscripts
+[03:48:17] ---------------
+[03:48:17]   Loaded 0 filterscripts.
+
+[03:48:17] Number of vehicle models: 0
+[03:48:18] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[03:49:13] filterscripts = ""  (string)
+[03:49:13] 
+[03:49:13] Server Plugins
+[03:49:13] --------------
+[03:49:13]  Loading plugin: samp-node
+[03:49:13]   Loaded.
+[03:49:13]  Loaded 1 plugins.
+
+[03:49:13] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[03:49:13] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[03:49:13] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[03:49:13] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[03:49:13] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[03:49:13] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[03:49:13] 
+[03:49:13] Filterscripts
+[03:49:13] ---------------
+[03:49:13]   Loaded 0 filterscripts.
+
+[03:49:13] Number of vehicle models: 0
+[03:49:20] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[03:51:23] filterscripts = ""  (string)
+[03:51:23] 
+[03:51:23] Server Plugins
+[03:51:23] --------------
+[03:51:23]  Loading plugin: samp-node
+[03:51:23]   Loaded.
+[03:51:23]  Loaded 1 plugins.
+
+[03:51:23] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[03:51:23] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[03:51:23] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[03:51:23] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[03:51:23] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[03:51:23] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[03:51:23] 
+[03:51:23] Filterscripts
+[03:51:23] ---------------
+[03:51:23]   Loaded 0 filterscripts.
+
+[03:51:23] Number of vehicle models: 0
+[03:51:25] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[04:08:46] filterscripts = ""  (string)
+[04:08:46] 
+[04:08:46] Server Plugins
+[04:08:46] --------------
+[04:08:46]  Loading plugin: samp-node
+[04:08:46]   Loaded.
+[04:08:46]  Loaded 1 plugins.
+
+[04:08:46] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[04:08:46] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[04:08:46] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[04:08:46] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[04:08:46] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[04:08:46] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[04:08:46] 
+[04:08:46] Filterscripts
+[04:08:46] ---------------
+[04:08:46]   Loaded 0 filterscripts.
+
+[04:08:46] Number of vehicle models: 0
+[04:15:36] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[04:15:42] filterscripts = ""  (string)
+[04:15:42] 
+[04:15:42] Server Plugins
+[04:15:42] --------------
+[04:15:42]  Loading plugin: samp-node
+[04:15:42]   Loaded.
+[04:15:42]  Loaded 1 plugins.
+
+[04:15:42] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[04:15:42] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[04:15:42] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[04:15:42] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[04:15:42] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[04:15:42] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[04:15:42] 
+[04:15:42] Filterscripts
+[04:15:42] ---------------
+[04:15:42]   Loaded 0 filterscripts.
+
+[04:15:42] Number of vehicle models: 0
+[04:17:30] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[04:17:34] filterscripts = ""  (string)
+[04:17:34] 
+[04:17:34] Server Plugins
+[04:17:34] --------------
+[04:17:34]  Loading plugin: samp-node
+[04:17:34]   Loaded.
+[04:17:34]  Loaded 1 plugins.
+
+[04:17:34] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[04:17:34] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[04:17:34] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[04:17:34] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[04:17:34] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[04:17:34] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[04:17:34] 
+[04:17:34] Filterscripts
+[04:17:34] ---------------
+[04:17:34]   Loaded 0 filterscripts.
+
+[04:17:34] Number of vehicle models: 0
+[04:17:45] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[04:38:45] filterscripts = ""  (string)
+[04:38:45] 
+[04:38:45] Server Plugins
+[04:38:45] --------------
+[04:38:45]  Loading plugin: samp-node
+[04:38:45]   Loaded.
+[04:38:45]  Loaded 1 plugins.
+
+[04:38:45] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[04:38:45] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[04:38:45] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[04:38:45] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[04:38:45] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[04:38:45] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[04:38:45] 
+[04:38:45] Filterscripts
+[04:38:45] ---------------
+[04:38:45]   Loaded 0 filterscripts.
+
+[04:38:45] Number of vehicle models: 0
+[04:38:47] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[04:42:01] filterscripts = ""  (string)
+[04:42:01] 
+[04:42:01] Server Plugins
+[04:42:01] --------------
+[04:42:01]  Loading plugin: samp-node
+[04:42:01]   Loaded.
+[04:42:01]  Loaded 1 plugins.
+
+[04:42:01] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[04:42:01] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[04:42:01] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[04:42:01] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[04:42:01] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[04:42:01] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[04:42:01] 
+[04:42:01] Filterscripts
+[04:42:01] ---------------
+[04:42:01]   Loaded 0 filterscripts.
+
+[04:42:01] Number of vehicle models: 0
+[04:45:24] --- Server Shutting Down.

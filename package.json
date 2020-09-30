@@ -1,0 +1,19 @@
+{
+  "name": "deathmatch-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prebuild": "tslint -c tslint.json -p tsconfig.json --fix",
+    "build": "tsc"
+  },
+  "author": "Amper",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mysql": "^2.15.15",
+    "@types/node": "^14.11.2",
+    "mysql": "^2.18.1",
+    "samp-node-lib": "^1.0.4"
+  }
+}

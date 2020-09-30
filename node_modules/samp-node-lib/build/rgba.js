@@ -1,0 +1,24 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.rgba = void 0;
+function rgba(value) {
+    const values = value.split('(')[1].split(')')[0].split(',').map(v => parseInt(v, 10));
+    if (values.length !== 4 && values.length !== 3) {
+        return 255;
+    }
+    if (values.length === 3) {
+        values.push(255);
+    }
+    else {
+        values[3] = values[3] < 1 ? Math.floor(values[3] * 255) : 255;
+    }
+    let n = 0;
+    values.reverse().forEach((n2, i) => {
+        if (n2 !== 0) {
+            n += Math.pow(16, i * 2) * n2;
+        }
+    });
+    return n;
+}
+exports.rgba = rgba;
+//# sourceMappingURL=rgba.js.map

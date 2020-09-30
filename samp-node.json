@@ -1,0 +1,8 @@
+{
+    "entry_file": "js-gamemode/dist/main.js",
+    "node_flags": [],
+    "plugins": [
+        "samp-node",
+        "streamer"
+    ]
+}
