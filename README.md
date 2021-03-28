@@ -1,2 +1,2 @@
 # SA-MP-TypeScriptDeathmatch
-SA-MP typescript deathmatch gamemode.
+SA-MP typescript deathmatch gamemode
